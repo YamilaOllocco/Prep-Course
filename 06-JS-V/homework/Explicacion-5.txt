@@ -1,0 +1,5 @@
+prototype:
+el mecanismo por el cual los objetos de JavaScript heredan características unos de otros.
+
+Classe:
+es como si fuera una plantilla de esta forma poder crear objetos muchos mas rapido y facil usando la Clase

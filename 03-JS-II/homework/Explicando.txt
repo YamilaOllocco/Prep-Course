@@ -1,0 +1,13 @@
+for:
+Es una funcion que sirve para poder recorrer un sistema de codigo en forma de bucle (repetitvo)
+
+&& (AND):
+Se utiliza para comparar el estado de 2 o mas codigo los cuales deveran ser true para que nos de como verdadero
+de lo contrario sera falso 
+
+|| (or):
+Tambien es utilizado para comparar, con la diferencia que en este caso solo basta que uno de los codigo 
+nos de true 
+
+! (NOT):
+Es usado para invertir los valores buleano 

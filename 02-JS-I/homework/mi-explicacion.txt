@@ -1,0 +1,21 @@
+variables:
+Se usa para guardar valores como por ejemplo: numeros, String, array, booleano, etc.
+
+String:
+Es una cadena de texto los cuales se escriben entre "" o ''
+
+funciones
+Es como una caja de codigo la cual esta separa de otras funciones eso no quiere decir que no pueda ser utilizado
+por otras funciones
+
+Argumneto:
+estos argumento estan en las funciones las cuales pueden ser rellenado cuando se invoca la propia funcion 
+
+return:
+Con esto podemos retornar algo por ejemplo: string, operaciones matematica, etc
+
+if:
+Es una funcion el cual utiliza valores booleanos para sus operaciones
+
+booleanos:
+Solo tiene 2 estados true o false

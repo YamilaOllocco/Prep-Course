@@ -1,0 +1,16 @@
+Objetos:
+Funciona parecido a un array me refiero a que tambien son como cajas pero esta ves no estan ordenadas
+con numeros si no que ahora se las nombran esto es (key/clave/propiedades) {} = objeto
+
+Propiedades:
+son los nombre de las cajas de un objetos { primercaja: ':)'}
+
+Metodos:
+Se le dicen metodos a las funciones las cuales se usan dentro de un objeto {caja:function(){}}
+
+for in:
+Es un bucle que trabaja con las propiedades de un objeto
+
+notacion . y []
+ambas pueden hacer casi lo mismo la diferencia hasta ahora que yo le encontre es que el [] puede referirce
+a variables y argumentos que con . no puedo 

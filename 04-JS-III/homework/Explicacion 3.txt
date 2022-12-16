@@ -1,0 +1,3 @@
+Array:
+con esto podemos crear como si fueran cajas ordenadas por numeros que son llamado key/clave, a estas cajas
+se le pueden colocar elementos ejemplo: numeros, String, booleano, etc

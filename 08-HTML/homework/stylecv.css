@@ -1,0 +1,33 @@
+.titu{
+    margin:10px;
+}
+
+#par{
+    background: red;
+    border: 5px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 40%;
+}
+
+img{
+    width: 150px;
+    border-radius: 50%;
+}
+
+h2{
+    text-align: center;
+}
+
+p {
+    
+    text-align: center;
+}
+
+li{
+    list-style-type: none;
+}
+    body {
+    background-color: bisque;
+}
